@@ -4,5 +4,8 @@ public static void main(String[] args){
   System.out.println("hello world second time");
   System.out.println("hello world third time");
   System.out.println("Added this line in bitbucket");
+
+  System.out.println("MERGE CONFLICT");
+  System.out.println("MERGE CONFLICT");
   }
 }
