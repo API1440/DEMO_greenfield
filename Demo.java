@@ -27,8 +27,6 @@ public static void main(String[] args){
 
   System.out.println("JENKINS LINE 74897494");
 
-  System.out.println("JENKINS LINE into github");
-
 
   }
 }
